@@ -36,3 +36,6 @@
 /Users/rabiazehraunal/Desktop/pratikler/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/rabiazehraunal/Desktop/pratikler/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
 /Users/rabiazehraunal/Desktop/pratikler/BookStore/WebApi/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/rabiazehraunal/Desktop/pratikler/BookStore/WebApi/bin/Debug/net6.0/AutoMapper.dll
+/Users/rabiazehraunal/Desktop/pratikler/BookStore/WebApi/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/rabiazehraunal/Desktop/pratikler/BookStore/WebApi/bin/Debug/net6.0/FluentValidation.dll
